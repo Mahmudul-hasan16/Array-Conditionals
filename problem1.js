@@ -5,3 +5,4 @@ console.log(fruits);
 
 fruits[2] = 'Watermelon';
 console.log(fruits)
+
